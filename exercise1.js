@@ -25,7 +25,7 @@ var Age = 16;
 var address = "Uong Bi Thanh Son";
 
 // boolean
-var
+var x=5; 
 
 
 // const
